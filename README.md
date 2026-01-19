@@ -80,6 +80,9 @@ Java & Spring Boot
 Python (Basic)  
 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50%
 
+Microsoft Office (Word, Excel, Access)
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
+
 Hardware / Software Troubleshooting
 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
 
