@@ -51,6 +51,7 @@
 - Built using **React** and **Tailwind CSS**
 - Clean UI and responsive design
 - Focused on user experience and performance
+- https://movieproject-ashen.vercel.app/
 
 ### 🏫 University Management System (Backend)
 - Developed using **Java & MySQL**
