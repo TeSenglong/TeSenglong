@@ -57,7 +57,21 @@
 - Developed using **Java & MySQL**
 - Handles student and academic data
 - Designed with scalability in mind
+  
+# E-Commerce Project
 
+🚀 **Live Demo**: https://ecommerce-xoff.vercel.app/
+
+<img width="1715" height="805" alt="Screenshot 2026-03-03 164028" src="https://github.com/user-attachments/assets/1360e3da-a288-407b-933e-5f926a377b3a" />
+
+
+## Features
+- Product listing with pagination
+- Search functionality
+- Category filters
+- Responsive design
+- Redux state management
+- TypeScript for type safety
 ---
 
 ## 📚 Education
