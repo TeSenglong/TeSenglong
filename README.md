@@ -48,10 +48,11 @@
 ## 📂 Projects
 
 ### 🎬 Movie Browsing App
+<img width="1881" height="906" alt="Screenshot 2026-03-03 164214" src="https://github.com/user-attachments/assets/8c35a6af-4777-44da-9866-ef64bda54e56" />
+- https://movieproject-ashen.vercel.app/
 - Built using **React** and **Tailwind CSS**
 - Clean UI and responsive design
 - Focused on user experience and performance
-- https://movieproject-ashen.vercel.app/
 
 ### 🏫 University Management System (Backend)
 - Developed using **Java & MySQL**
