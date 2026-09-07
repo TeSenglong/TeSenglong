@@ -105,7 +105,7 @@ Hardware / Software Troubleshooting
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **hahura70@gmail.com**
+- 📧 Email: **mr.senglong.te@gmail.com**
 - 📱 Phone: **070271445**
 - 📍 Location: **Phnom Penh, Cambodia**
 - 🧑‍💻 GitHub: [github.com/TeSenglong](https://github.com/TeSenglong)
