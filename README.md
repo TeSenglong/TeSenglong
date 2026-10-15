@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Te Senglong
+<img width="3787" height="1827" alt="image" src="https://github.com/user-attachments/assets/c58ff302-7d9b-48d2-a9eb-f10e5fb907f4" /># 👋 Hi, I'm Te Senglong
 
 🎓 Computer Science Student at **Western University (Phnom Penh, Cambodia)**  
 💻 Aspiring **Full-Stack Developer**  
@@ -66,7 +66,6 @@
 
 <img width="1715" height="805" alt="Screenshot 2026-03-03 164028" src="https://github.com/user-attachments/assets/1360e3da-a288-407b-933e-5f926a377b3a" />
 
-
 ## Features
 - Product listing with pagination
 - Search functionality
@@ -75,6 +74,26 @@
 - Redux state management
 - TypeScript for type safety
 ---
+
+# E-Commerce Project (Minishop_full-stack_project)
+
+🚀 **Live Demo**:https://frontend-eta-woad-54.vercel.app/
+
+<img width="3787" height="1827" alt="Screenshot 2026-10-15 143949" src="https://github.com/user-attachments/assets/06872d88-d99a-4306-b09c-2759f321cce3" />
+
+## Features
+
+- Secure JWT authentication with user and admin roles
+- Product and category browsing with pagination
+- Shopping cart, checkout, and order history
+- Admin management for products, categories, orders, and users
+- Profile and product image uploads using Supabase Storage
+- PostgreSQL database hosted on Supabase
+- Rate limiting, request validation, and stock protection
+- Responsive Next.js storefront and admin dashboard
+- Automated Spring Boot integration and security tests
+- Docker-ready backend deployment
+
 
 ## 📚 Education
 
