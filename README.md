@@ -47,6 +47,25 @@
 
 ## 📂 Projects
 
+#### E-Commerce Project (Minishop_full-stack_project)
+
+🚀 **Live Demo**:https://frontend-eta-woad-54.vercel.app/
+
+<img width="3787" height="1827" alt="Screenshot 2026-10-15 143949" src="https://github.com/user-attachments/assets/06872d88-d99a-4306-b09c-2759f321cce3" />
+
+## Features
+
+- Secure JWT authentication with user and admin roles
+- Product and category browsing with pagination
+- Shopping cart, checkout, and order history
+- Admin management for products, categories, orders, and users
+- Profile and product image uploads using Supabase Storage
+- PostgreSQL database hosted on Supabase
+- Rate limiting, request validation, and stock protection
+- Responsive Next.js storefront and admin dashboard
+- Automated Spring Boot integration and security tests
+- Docker-ready backend deployment
+
 ### 🎬 Movie Browsing App
 <img width="1881" height="906" alt="Screenshot 2026-03-03 164214" src="https://github.com/user-attachments/assets/8c35a6af-4777-44da-9866-ef64bda54e56" />
 
@@ -75,24 +94,6 @@
 - TypeScript for type safety
 ---
 
-# E-Commerce Project (Minishop_full-stack_project)
-
-🚀 **Live Demo**:https://frontend-eta-woad-54.vercel.app/
-
-<img width="3787" height="1827" alt="Screenshot 2026-10-15 143949" src="https://github.com/user-attachments/assets/06872d88-d99a-4306-b09c-2759f321cce3" />
-
-## Features
-
-- Secure JWT authentication with user and admin roles
-- Product and category browsing with pagination
-- Shopping cart, checkout, and order history
-- Admin management for products, categories, orders, and users
-- Profile and product image uploads using Supabase Storage
-- PostgreSQL database hosted on Supabase
-- Rate limiting, request validation, and stock protection
-- Responsive Next.js storefront and admin dashboard
-- Automated Spring Boot integration and security tests
-- Docker-ready backend deployment
 
 
 ## 📚 Education
