@@ -1,4 +1,4 @@
-<img width="3787" height="1827" alt="image" src="https://github.com/user-attachments/assets/c58ff302-7d9b-48d2-a9eb-f10e5fb907f4" /># 👋 Hi, I'm Te Senglong
+# 👋 Hi, I'm Te Senglong
 
 🎓 Computer Science Student at **Western University (Phnom Penh, Cambodia)**  
 💻 Aspiring **Full-Stack Developer**  
