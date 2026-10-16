@@ -36,7 +36,7 @@
 
 
 ### 💻 Programming & Development
-- **Front-End:** React, Tailwind CSS, HTML, CSS  
+- **Front-End:** React&NextJs,Tailwind CSS, HTML, CSS  
 - **Back-End:** Java, Spring Boot, MySQL  
 - **Other:** Python (Basic)
 
