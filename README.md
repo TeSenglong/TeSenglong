@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Te Senglong
 
-🎓 Computer Science Student at **Western University (Phnom Penh, Cambodia)**  
+🎓 currently year 3 Computer Science Student at **Western University (Phnom Penh, Cambodia)**  
 💻 Aspiring **Full-Stack Developer**  
 🚀 Passionate about building practical web applications and solving real-world problems
 
