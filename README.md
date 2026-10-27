@@ -102,7 +102,8 @@
 
 **Bachelor of Science in Computer Science**  
 📍 Western University – Phnom Penh, Cambodia  
-🗓️ *2024 – Expected 2028*
+🗓️ *2024 – Expected 2028*  
+
 **Short course frontend(reactjs) and Backend(java)
 📍ISTAD INSTITUTE
 🗓️ *2024*
