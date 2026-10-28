@@ -52,6 +52,7 @@
 #### E-Commerce Project (Minishop_full-stack_project)
 
 🚀 **Live Demo**:https://frontend-eta-woad-54.vercel.app/
+REPO: https://github.com/TeSenglong/full_stack_ecom
 
 <img width="3787" height="1827" alt="Screenshot 2026-10-15 143949" src="https://github.com/user-attachments/assets/06872d88-d99a-4306-b09c-2759f321cce3" />
 
